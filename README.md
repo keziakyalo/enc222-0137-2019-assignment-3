@@ -1,0 +1,47 @@
+# enc222-0137-2019-assignment-3
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Leaflet css file-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="">
+     <!--Leaflet javascript file-->
+     <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js" integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s=" crossorigin=""></script> 
+    <title>THE COVID CASES IN KENYA</title>
+    <style>
+        .header{
+            color:redorange;
+
+        }
+        .heading{
+            color: rgb(42, 44, 165);
+            align-items: center;
+            justify-content: center;
+
+        }
+    </style>
+</head>
+<body style="background-color:rgb(135, 219, 222) ;">
+  <header class="header">
+    <h1 class="heading" style="color:rgb(42, 165, 83)">COVID19 KENYA STATISTICS</h1>  
+  </header>
+    
+    
+<!-- <iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="80%" height="430"
+  src="https://charts.mongodb.com/charts-project-0-pzeir/embed/dashboards?id=6385e821-7d00-4676-82d5-3f5c0c2de7e4&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
+ -->
+ <iframe style="background: #0eeeeef3;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(7, 155, 230, 0.918);" width="80%" height="430" src="https://charts.mongodb.com/charts-project-0-pzeir/embed/dashboards?id=6385e862-6ca1-439a-858a-08768a233d1b&amp;theme=light&amp;autoRefresh=true&amp;maxDataAge=3600&amp;showTitleAndDesc=false&amp;scalingWidth=fixed&amp;scalingHeight=fixed"></iframe>
+
+
+<footer style="color:rgb(13, 236, 132) ;">
+    <h1 style="color:rgb(18, 221, 79)">KEZIA KYALO</h1>
+	<h2 style="color:rgb(21, 230, 84)">ENC222-0137/2019</h2>
+
+
+  
+
+
+
+</footer>
+</body></html>
